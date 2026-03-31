@@ -16,6 +16,16 @@ This project uses the VIT Bhopal grading system:
 
 3. **End-Term marks (30%):** I calculate these out of 100 to help users reach their target grade.
 
+## Key Features (v2.0 Update)
+
+* We have ** Scaling**. It helps convert a 50-mark Mid-term into a 30% weightage.
+
+* Our system includes **Safety Buffer Analysis**. It works like a "Fail-Safe". It figures out the marks you need to avoid a backlog, which is 50%.
+
+* With **Goal Setting** you can set a target, like an S or A grade. The system then calculates what you need to achieve at the end of the term.
+
+* We also have **Validation Logic**. It checks if your goal is possible. If you need, than 100% it will tell you that it's not possible.
+
 ## Environment
 
 * **Language:** I used Python 3.x for this project.
